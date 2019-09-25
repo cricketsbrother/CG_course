@@ -1,4 +1,4 @@
-#GDI MFC
+# GDI MFC
 based on this:
 [MFC GDI基础知识](https://www.cnblogs.com/weiqubo/archive/2009/12/24/1930029.html)
 ## DC （device context）
@@ -116,4 +116,5 @@ HS_DIAGCROSS /* xxxxx */
 
 ## 绘图函数
 ![GDI function](https://images.cnblogs.com/cnblogs_com/weiqubo/2.PNG)
+
 
